@@ -1,0 +1,25 @@
+body{
+    background-color:#d4b574;
+    color:#64441cd3;
+    padding:5px;
+    margin:10px;
+}
+#c{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+    margin:15px;
+    padding:5px;
+}
+p{
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:center;
+    background-color:#966f40d3;
+}
+#rev1{
+    margin:70px;
+    text-align:center;
+}

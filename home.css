@@ -1,0 +1,24 @@
+h1{
+    text-align:center;
+    color:#87725d;
+    background-color:#d4bdd5;
+    border-radius:5px;
+    font-family: 'Brush Script MT', cursive;
+    font-size:45px;
+}
+body{
+    color:#87725d;
+    background-color:#d4bdd5;
+    text-align:center;
+    border-radius:5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:20px;
+}
+.menu{
+    text-align:center;
+    color:#87725d;
+    background-color:#d4bdd5;
+    border-radius:5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:25px;
+}
